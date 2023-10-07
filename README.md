@@ -4,10 +4,13 @@
 - Shell Script/C#
 - 臭打mai的
 - 在读囚犯
+
 ### 💬 Contact me
 1. [My Github](https://github.com/LeZi04919)
 2. [My Blog](https://leziblog.cn)
-3. E-mail: [bb20048862@gmail.com](malito:bb20048862@gmail.com)
+3. E-mail: [bb20048862@gmail.com](mailto:bb20048862@gmail.com)
+
+---  
 
 ![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi04919&show_icons=true&theme=radical)
 
