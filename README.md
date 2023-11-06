@@ -6,13 +6,13 @@
 - 在读囚犯
 
 ### 💬 Contact me
-1. [My Github](https://github.com/LeZi04919)
+1. [My Github](https://github.com/LeZi9916)
 2. [My Blog](https://leziblog.cn)
 3. E-mail: [bb20048862@gmail.com](mailto:bb20048862@gmail.com)
 
 ---  
 
-![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi04919&show_icons=true&theme=radical)
+![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi9916&show_icons=true&theme=radical)
 
 <!--
 **LeZi04919/LeZi04919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
