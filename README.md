@@ -12,7 +12,7 @@
 
 ---  
 
-![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi9916&show_icons=true&theme=radical)
+![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi9916&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeZi9916&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LeZi04919/LeZi04919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
