@@ -13,7 +13,7 @@
 ---  
 
 [<div align=center>![LeZi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeZi9916&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeZi9916&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeZi9916&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [<div align=center>![LeZi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeZi&layout=compact&langs_count=5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
