@@ -1,8 +1,7 @@
 ### 👋 Who am I?
-- 经常忘记commit的伞兵
+- 在线音游人
 - 擅长 Ctrl+C 和 Ctrl+V
-- Shell Script/C#
-- 臭打mai的
+- SHIT CODE
 - 在读囚犯
 
 ### 💬 Contact me
