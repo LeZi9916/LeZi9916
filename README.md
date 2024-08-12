@@ -6,7 +6,7 @@
 
 ### 💬 Contact me
 1. [My Github](https://github.com/LeZi9916)
-2. [My Blog](https://leziblog.cn)
+2. [My Blog](https://leziblog.com)
 3. E-mail: [lezi@leziblog.com](mailto:lezi@leziblog.com)
 
 ---  
