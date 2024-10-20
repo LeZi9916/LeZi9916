@@ -26,7 +26,7 @@ Currently a university student, majoring in software
 
 - Blog: [LeZi的猫窝](https://leziblog.com)
 - Telegram: [@たのしい](https://t.me/LeZi9916)
-- E-mail: [lezi@leziblog.com](mailto:lezi@leziblog.com)
+- E-mail: [lezi@leziblog.com](mailto:lezi@leziblog.com) (faster，e2ee available)
 
 ## ✨ Status
 
