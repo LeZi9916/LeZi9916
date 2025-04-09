@@ -20,7 +20,8 @@ Currently a university student, majoring in software
 
 ## 🔑 Public Keys
 
-- GPG: [`5D0E DBF8 AFC9 EB3E 091C 6245 CECB 0368 286F E0A5`](https://github.com/LeZi9916.gpg)
+- ~~[`5D0E DBF8 AFC9 EB3E 091C 6245 CECB 0368 286F E0A5`](https://keys.openpgp.org/vks/v1/by-fingerprint/5D0EDBF8AFC9EB3E091C6245CECB0368286FE0A5)~~ (revoked)
+- [`E6B4 6D14 346A 8918 D60C 6115 9C03 41BF D187 804C`](https://github.com/LeZi9916.gpg)
 
 ## 📫 Contact
 
